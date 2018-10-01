@@ -1,0 +1,43 @@
+
+html, body {
+    background-color: blue;
+    height: 100%;
+    margin: 0px;
+    padding: 0px;
+    
+    
+}
+
+
+}
+#div1{ 
+    background-color: red;
+    height: 50%;
+    margin: 0;
+    width:  50%;
+    float: left;
+}
+
+#div2 { 
+    background-color: green;
+    Height: 50%;
+    width:  50%;
+    float: left;
+}
+#div3 { 
+   background-color: green;
+    Height: 50%;
+    width:  50%;
+    float:  left;
+    
+}
+#div4 { 
+    background-color: green; 
+    Height: 50%;
+    width:  50%;
+    float: right;
+}
+
+
+
+       

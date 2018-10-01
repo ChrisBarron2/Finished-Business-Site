@@ -1,0 +1,118 @@
+#header {
+    background-color: dimgrey;
+    top: 0;
+    bottom: 70%;
+    right:0;
+    left: 0;
+    height: 150%;
+    text-align: center;
+    position: absolute;
+    font-size: 19px;
+
+
+    }
+
+
+    #profilepic {
+    background-color: greenyellow;
+    top: 1%;
+    left: 0;
+    right: 70%;
+    bottom: 0;
+    height: 25%;
+    position: absolute;
+    text-align: center;
+    z-index: 1;    
+    }
+    #Bio {
+    background-color: rgb(92, 223, 131);
+    top: 10%;
+    left: 10%;
+    right: 60%;
+    height: 29%;
+    bottom: 0;
+    position: absolute;
+    text-align: center; 
+    font-size: 18px;
+    margin-left: 150px;
+    padding-top: 12px;
+    padding-left: 50%;
+    padding-right: 14px;
+    
+        }
+    
+    #row {
+    top: 65%;
+    bottom: 0;
+    right: 0;
+    height: 25%;
+    left: 20%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    position: absolute;
+    background-color: darkslategrey;
+    
+    }
+    
+    .circle {
+        height: 65%;
+        width: 80%;
+        background-color: darksalmon;
+        border-radius: 49%;
+        margin: auto;
+        display: flex;
+        height: 25%;
+        justify-content: center;
+        align-items: center;
+    
+
+    }
+
+
+    
+    .column {
+     float: left;   
+     width: 40%;
+     Padding: 10px;
+     height: 300px;
+     border: solid black;
+     text-align: left;
+     background-color: gold
+    }
+
+     .column2 {
+        float: left;   
+        width: 40%;
+        Padding: 10px;
+        height: 300px;
+        border: solid black;
+        text-align: left;
+        background-color: gold
+
+     
+    }
+
+    .column3 {
+        float: left;   
+        width: 40%;
+        border: solid black;
+        Padding: 10px;
+        height: 300px;
+        text-align: left;
+        background-color: gold
+
+    }
+        
+    img {
+    height: 49%;
+    margin-bottom: 40px;
+    size: 15px; 
+    position: absolute;
+    }
+    #bmw{
+        position: absolute;
+    margin-top:335px;
+    padding: right 40px;
+    border: solid black;
+    }
